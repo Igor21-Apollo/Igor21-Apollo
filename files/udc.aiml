@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml> version="2.0">
+  <category><pattern>Hello</pattern></template>How can i help you?</template></category>
+<category><pattern> I'm having trouble with my recent order. Can you help me?</pattern></template>Of course, I'd be happy to help! 😊 Please provide me with your order number so I can assist you better.</template></category>
+<category><pattern>My order number is 12345.</pattern></template>Thank you for providing your order number, 12345. How can I assist you with this order?</template></category>
+<category><pattern> I haven't received my order yet, and it's past the estimated delivery date.</pattern></template>I'm sorry to hear that your order is delayed. Let me check the status for you. Please hold on for a moment. It appears that your order is still in transit and experiencing a delay. I apologize for the inconvenience. Would you like to track the shipment or discuss your options?</template></category>  
+<category><pattern></pattern></template></template></category>
+<category><pattern></pattern></template></template></category>
+</aiml>
